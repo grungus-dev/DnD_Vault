@@ -1,0 +1,5 @@
+This magical item has 5 charges and it regains all charges on a Long Rest.
+
+**Banana Burst** - You can use an action and expend 1 charge to shoot out a banana at a target within 60ft of you, make a ranged spell attack and on a hit the target takes 2d6 bludgeoning damage and must make a Dex save (DC 13) or fall prone. In addition, you cannot use Banana Burst if there is a Banana Body in effect.
+
+**Banana Body** - You can also use an action to expend 2 charges and turn 1 willing creature (including yourself) into a banana for 1 minute, you can increase the duration by expending more charges, 3 charges equal 10 minutes, 4 charges equal 1 hour, and 5 charges equal 8 hours. This transformation only ends if time runs out, or if the banana is eaten, if the banana is eaten, the target takes 3d10 force damage and immediately transforms back, they also land 5ft next to the eater of the banana.

@@ -1,0 +1,19 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "bootstrap-grid",
+    "bootstrap-grid.min",
+    "bootstrap-grid.rtl",
+    "bootstrap-grid.rtl.min",
+    "bootstrap-utilities",
+    "bootstrap-utilities.min",
+    "bootstrap-utilities.rtl",
+    "bootstrap-utilities.rtl.min",
+    "dungeoners"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "American Typewriter",
+  "monospaceFontFamily": "Excalifont",
+  "baseFontSizeAction": false
+}

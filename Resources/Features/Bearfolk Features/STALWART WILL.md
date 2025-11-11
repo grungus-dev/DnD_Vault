@@ -1,0 +1,1 @@
+When you make an Intelligence, Wisdom, or Charisma saving throw, you can roll a d4 and add the result to your total. You can do this after the roll but before any effects occur. Once you use this feature, you can't use it again until you finish a short or long rest.

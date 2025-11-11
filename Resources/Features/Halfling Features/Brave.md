@@ -1,0 +1,1 @@
+You have Advantage on saving throws you make to avoid or end the [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition.

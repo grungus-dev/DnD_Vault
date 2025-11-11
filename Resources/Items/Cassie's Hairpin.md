@@ -1,0 +1,1 @@
+When worn, it allows the user to cast _Chill Touch_ as a cantrip.

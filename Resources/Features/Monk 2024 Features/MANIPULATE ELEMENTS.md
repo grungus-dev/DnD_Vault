@@ -1,0 +1,1 @@
+You know the Elementalism spell. Wisdom is your spellcasting ability for it.

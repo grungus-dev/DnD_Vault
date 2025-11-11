@@ -1,0 +1,1 @@
+A Shockwave leaves the knuckles of your fist in a 30 ft. Cone centered on you. Any creature in the cone must make a STR save or take 2d(Karate die)Thunder Damage and be pushed back 10ft.

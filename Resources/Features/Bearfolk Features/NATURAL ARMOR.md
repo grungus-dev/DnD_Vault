@@ -1,0 +1,1 @@
+Your hide is thick and tough, granting you a natural AC of 13+ your Dexterity modifier.

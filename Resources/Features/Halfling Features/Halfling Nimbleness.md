@@ -1,0 +1,1 @@
+You can move through the space of any creature that is a size larger than you, but you can’t stop in the same space.

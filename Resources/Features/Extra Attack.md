@@ -1,0 +1,1 @@
+Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.

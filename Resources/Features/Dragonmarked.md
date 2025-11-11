@@ -1,0 +1,1 @@
+Advantage on arcana rolls and a +1 bonus to ac, but disadvantage on saving throws against enchantment type spells.

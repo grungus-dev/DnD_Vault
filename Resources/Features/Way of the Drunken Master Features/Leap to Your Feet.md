@@ -1,0 +1,1 @@
+When you're prone, you can stand up by spending 5 feet of movement, rather than half your speed.

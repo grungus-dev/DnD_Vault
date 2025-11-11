@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "95e75871268c12c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "155cf14412bf2edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "485e5f67ed59f6e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f314c9ac3e89bd4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d673f1eb61e158a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05d84a50c0e8585",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9b27cc81b243c4d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "armor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9be9671fc37056d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4ea50241223f547b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c168a0c3f3d2ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8592bba547254701",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools/Party Configuration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Party Configuration"
+            }
+          },
+          {
+            "id": "79e6fa3fdb604329",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tools/Party Configuration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Party Configuration"
+            }
+          },
+          {
+            "id": "38b605365f7d0b05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "016aa3bc3e2528c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tools/Party Configuration.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Party Configuration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "c05d84a50c0e8585",
+  "lastOpenFiles": [
+    "Character sheets/Jolos/SPOILER_Jolos Ironhand.pdf",
+    "Character sheets/Takoni/takoni_sheet.md",
+    "lu20713c7g2v.tmp",
+    "Character sheets/Takoni/puff_guts.md",
+    "Character sheets/Wyndel The Ghost/wyndel_sheet.md",
+    "Resources/Spells/Level3/Thunder Step.md",
+    "Resources/Spells/Level2/Levitate.md",
+    "Resources/Spells/Level3/Ashardalon's Stride.md",
+    "Resources/Spells/Level1/Catapult.md",
+    "Resources/Spells/Level3/Lightning Bolt.md",
+    "Resources/Classes/Sorcerer - Storm Sorcery.md",
+    "Resources/Features/Heart of the Storm.md",
+    "Resources/Features/Storm Guide.md",
+    "Resources/Features/Font of Magic.md",
+    "Resources/Spells/Level1/Fog Cloud.md",
+    "Resources/Spells/Cantrip/Lightning Lure.md",
+    "Resources/Spells/Cantrip/Gust.md",
+    "Source Books/New_OP_Oasis_RacesMCareers.pdf",
+    "Source Books/OP_Devil_Fruits.pdf",
+    "Source Books/OP_Mass_Session_Zero.pdf",
+    "Source Books/OP_RacesNCareers.pdf",
+    "Resources/Metamagic.md",
+    "Resources/Spells/Level2/Flame Blade.md",
+    "Resources/Features/Quickened Spell.md",
+    "Resources/Spells/Level1/Thunderwave.md",
+    "Resources/Spells/Cantrip/Message.md",
+    "Character sheets/Knurv/knurv_sheet.md",
+    "Resources/Features/Air Genasi.md",
+    "Resources/Spells/Cantrip/Shocking Grasp.md",
+    "_Media/wyndel_the_ghost.png",
+    "wyndel.png",
+    "_Media/cereal_pirates_jolly_roger.png",
+    "Character sheets/Wyndel The Ghost/wyndel_guts.md",
+    "Resources/Features/Magical Guidance (Optional).md",
+    "Character sheets/Wyndel The Ghost",
+    "Source Books/OP_Haki.pdf",
+    "Source Books/PHB (2024).pdf",
+    "Character sheets/Knurv",
+    "_Media/takoni_ship_square.png",
+    "_Media/takoni_ship.png",
+    "_Media/image.png",
+    "_Media/shieldled.png",
+    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1 1.png",
+    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1.png",
+    "_Media/shiedledInvert.png"
+  ]
+}

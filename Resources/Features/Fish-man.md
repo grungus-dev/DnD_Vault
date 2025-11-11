@@ -1,0 +1,6 @@
+- +2 to any Ability Score 
+- Land Speed 30 ft. 
+- Swim Speed:30 ft. 
+- Darkvision 30ft. 
+- **Aquatics**- You can breathe and talk underwater, along with the ability to communicate and understand basic speech from all sea life (with the exception being Sea Kings). If you start as a Monk, you may have 1 Fishman Karate Die and choose 1 Fishman Karate Technique. 
+- You also roll advantage on STR and DEX saves while underwater.

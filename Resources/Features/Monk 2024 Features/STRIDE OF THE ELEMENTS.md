@@ -1,0 +1,1 @@
+While your Elemental Attunement is active, you also have a Fly Speed and a Swim Speed equal to your Speed

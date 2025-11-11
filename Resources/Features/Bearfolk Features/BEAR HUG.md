@@ -1,0 +1,1 @@
+When you take the Attack action, you can make an unarmed strike as a bonus action. If you hit, you can grapple the target in addition to dealing damage to it. You can use this ability a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses when you finish a long rest. 

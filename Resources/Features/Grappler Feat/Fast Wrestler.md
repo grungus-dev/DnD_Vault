@@ -1,0 +1,1 @@
+Your Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller

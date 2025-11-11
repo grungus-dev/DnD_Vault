@@ -1,0 +1,9 @@
+You gain Proficiency to Investigation and History checks. You also start with Archeologist tools plus proficiency with them. {DM Note: Arcana in this system doesn’t mean magic- it’ll represent ‘Mystic’ things in the world like DF’s or the strange phenomena that occurs}. 
+
+I. **Adventurer**- You can traverse through difficult terrain as if it were normal and without dealing with the penalty. At this stage, throughout the world you may start to uncover/find items known as Relics. Some may grant you Boons, Debuffs, or do nothing. Either way, collecting these will be in your best interest. 
+
+II. **Historical Thrill**- Gain proficiency in History and Arcana if you don’t have it. If you do, you now gain Expertise in both of them. Along with this you can increase a choice movement speed by +5 feet. 
+
+III. **Historian**- You can now read and understand **Poneglyphs**. Along with this, you gain (**Hexing Touch**). (**Hexing Touch**): you may bless a creature with a Boon or curse a creature with a Debuff you can touch. If the creature is unwilling they must make a CHA Save(DC: 8 + your Arcana) and take the effects of the Debuff for 1 Minute. A willing creature can have to Boon until dispelled. You lose the effect of the Boon or Debuff while it was transferred. 
+
+IV. **Savant of Knowledge**- You now gain the ability to tell what effects a Boon or Relic will have before taking it. During your travels you may encounter a strange book that’ll fall onto your lap, telling you about a special expedition. Upon finding this book you may roll a 1d4 to determine the type of ‘ancient place’ you may try to seek out. Get a +2 to INT or CHA, the Ability Score your choice can increase to 22.

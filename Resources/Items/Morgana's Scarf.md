@@ -1,0 +1,1 @@
+You get a +1 on all death saves and in addition, rolling a natural 19-20 returns you to 1 hp.

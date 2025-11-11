@@ -1,0 +1,4 @@
+- -1 AC
+- 10 ft reach
+- +1d4 poison damage for monk weapons and unarmed strikes
+	- Holding any weapon requires an extra hand due to jellyfish tentacles not being as strong.

@@ -1,0 +1,3 @@
+At 2nd level, you master the first in a series of arcane secrets uncovered by your extensive studies. 
+
+When you cast a spell with a spell slot and the spell deals **acid, cold, fire, force, lightning, necrotic, radiant,** or **thunder** damage, you can substitute that damage type with one other type from that list (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell’s formula as you cast it. When you cast a spell with a spell slot and the spell requires a saving throw, you can change the saving throw from one ability score to another of your choice. Once you change a saving throw in this way, you can’t do so again until you finish a short or long rest. 

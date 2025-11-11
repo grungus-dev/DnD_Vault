@@ -1,0 +1,1 @@
+You can take the [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action even when you are obscured only by a creature that is at least one size larger than you.

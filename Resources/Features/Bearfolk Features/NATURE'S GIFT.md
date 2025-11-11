@@ -1,0 +1,1 @@
+You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability score for it.

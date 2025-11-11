@@ -1,0 +1,70 @@
+.mb-input-type-progressBar.red-progress-bar .mb-progress-bar-progress {
+    background: var(--color-red);
+    color: red;
+}
+
+.mb-input-type-number.stat input{
+    width: 2em;
+    color: white;
+    font-size: 30px;
+    padding: 10px 10px;
+}
+
+.mb-input-type-textArea.bigtext input{
+    width: 50em;
+    height: 30em;
+    color: white;
+    padding: 10px 10px;
+}
+
+.mb-input-type-textArea.medtxt input{
+    width: 40em;
+    height: 10em;
+    color: white;
+    padding: 10px 10px;
+}
+
+.mb-input-type-textArea.medskinnytxt input{
+    width: 25em;
+    height: 10em;
+    color: white;
+    padding: 10px 10px;
+}
+
+.mb-input-type-text.CharName input{
+    width: 15em;
+    height: 2em;
+    color: white;
+    font-size: 30px
+}
+
+
+.mb-input-type-number.smallnum input{
+    width: 4em;
+    height: 2em;
+    color: white;
+    padding: 10px 8px;
+    text-align: center;
+}
+
+.mb-input-type-text.smalltxt input{
+    width: 4em;
+    height: 2em;
+    color: white;
+    padding: 10px 8px;
+    text-align: center;
+}
+
+.body{
+    align-content: center;
+}
+
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.markdown-reading-view .el-table {
+    padding: 0px;
+    margin-top: -2em;
+}
