@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "155cf14412bf2edf",
+        "id": "5d56c83f9005b7a2",
         "type": "tabs",
         "children": [
           {
-            "id": "485e5f67ed59f6e9",
+            "id": "e81918b4a0af94a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c05d84a50c0e8585",
+  "active": "e81918b4a0af94a9",
   "lastOpenFiles": [
+    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1 1.png",
     "Character sheets/Jolos/SPOILER_Jolos Ironhand.pdf",
     "Character sheets/Takoni/takoni_sheet.md",
     "lu20713c7g2v.tmp",
@@ -208,7 +209,6 @@
     "_Media/takoni_ship.png",
     "_Media/image.png",
     "_Media/shieldled.png",
-    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1 1.png",
     "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1.png",
     "_Media/shiedledInvert.png"
   ]
