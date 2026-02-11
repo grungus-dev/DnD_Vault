@@ -8,29 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e81918b4a0af94a9",
+            "id": "031ed0a183086a2f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Character sheets/Wyndel The Ghost/wyndel_sheet.md"
+                "file": "Source Books/OP_Devil_Fruits.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "wyndel_sheet"
+              "icon": "lucide-file-text",
+              "title": "OP_Devil_Fruits"
             }
           },
           {
-            "id": "62715f693f086cbc",
+            "id": "afa7859da6d58333",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/Spells/Level3/Thunder Step.md",
-                "mode": "source",
-                "source": false
+                "file": "Source Books/New_OP_Oasis_RacesMCareers.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Thunder Step"
+              "icon": "lucide-file-text",
+              "title": "New_OP_Oasis_RacesMCareers"
             }
           }
         ]
@@ -180,52 +178,52 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e81918b4a0af94a9",
+  "active": "031ed0a183086a2f",
   "lastOpenFiles": [
-    "Resources/Spells/Level2/Flame Blade.md",
-    "Character sheets/Wyndel The Ghost/wyndel_sheet.md",
-    "Resources/Spells/Level3/Lightning Bolt.md",
-    "Resources/Spells/Level3/Thunder Step.md",
-    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1 1.png",
-    "Character sheets/Jolos/SPOILER_Jolos Ironhand.pdf",
-    "Character sheets/Takoni/takoni_sheet.md",
-    "lu20713c7g2v.tmp",
-    "Character sheets/Takoni/puff_guts.md",
-    "Resources/Spells/Level2/Levitate.md",
-    "Resources/Spells/Level3/Ashardalon's Stride.md",
-    "Resources/Spells/Level1/Catapult.md",
-    "Resources/Classes/Sorcerer - Storm Sorcery.md",
-    "Resources/Features/Heart of the Storm.md",
-    "Resources/Features/Storm Guide.md",
-    "Resources/Features/Font of Magic.md",
-    "Resources/Spells/Level1/Fog Cloud.md",
-    "Resources/Spells/Cantrip/Lightning Lure.md",
-    "Resources/Spells/Cantrip/Gust.md",
     "Source Books/New_OP_Oasis_RacesMCareers.pdf",
     "Source Books/OP_Devil_Fruits.pdf",
+    "Character sheets/Takoni/takoni_sheet.md",
+    "Resources/Spells/Level3/Haste.md",
+    "Resources/Spells/Level3/Fireball.md",
+    "Resources/Spells/Level2/Cloud of Daggers.md",
+    "Resources/Spells/Level1/Hex.md",
+    "Character sheets/Frog Wizard/frog wiz.md",
+    "Resources/Spells/Level1/Shield.md",
+    "Resources/Spells/Level2/Rope Trick.md",
+    "Character sheets/Wyndel The Ghost/wyndel_sheet.md",
+    "Character sheets/Wyndel The Ghost/wyndel_guts.md",
+    "Multiclass Spellcaster.md",
+    "Resources/Spells/Level3/Blink.md",
+    "Resources/Spells/Level2/Wristpocket.md",
+    "Resources/Spells/Level1/Silvery Barbs.md",
+    "Resources/Classes/Sorcerer.md",
+    "w'zarg.png",
+    "Resources/Classes/Wizard.md",
+    "Character sheets/Frog Wizard/Fey Touched.md",
+    "Wizard- School of Evocation.md",
+    "Character sheets/Frog Wizard/Water Dependency.md",
+    "Character sheets/Frog Wizard/Grung.md",
+    "Character sheets/Frog Wizard/Standing Leap.md",
+    "Character sheets/Frog Wizard/Poisonous Skin.md",
+    "Character sheets/Frog Wizard/Potent Cantrip.md",
+    "Character sheets/Frog Wizard/Sculpt Spells.md",
+    "Character sheets/Cix/Drawing 2024-11-02 19.24.29.excalidraw.md",
+    "Pasted Image 20260127160415_057.png",
+    "Excalidraw",
+    "Character sheets/Frog Wizard",
     "Source Books/OP_Mass_Session_Zero.pdf",
+    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1 1.png",
+    "Character sheets/Jolos/SPOILER_Jolos Ironhand.pdf",
+    "lu20713c7g2v.tmp",
     "Source Books/OP_RacesNCareers.pdf",
-    "Resources/Metamagic.md",
-    "Resources/Features/Quickened Spell.md",
-    "Resources/Spells/Level1/Thunderwave.md",
-    "Resources/Spells/Cantrip/Message.md",
-    "Character sheets/Knurv/knurv_sheet.md",
-    "Resources/Features/Air Genasi.md",
-    "Resources/Spells/Cantrip/Shocking Grasp.md",
     "_Media/wyndel_the_ghost.png",
     "wyndel.png",
     "_Media/cereal_pirates_jolly_roger.png",
-    "Character sheets/Wyndel The Ghost/wyndel_guts.md",
-    "Resources/Features/Magical Guidance (Optional).md",
     "Character sheets/Wyndel The Ghost",
     "Source Books/OP_Haki.pdf",
-    "Source Books/PHB (2024).pdf",
-    "Character sheets/Knurv",
     "_Media/takoni_ship_square.png",
     "_Media/takoni_ship.png",
     "_Media/image.png",
-    "_Media/shieldled.png",
-    "_Media/what-is-your-opinion-on-gravyard-shift-at-freddys-v0-srq572tmj81d1.png",
-    "_Media/shiedledInvert.png"
+    "_Media/shieldled.png"
   ]
 }

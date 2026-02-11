@@ -11,4 +11,4 @@ You fill the air with spinning daggers in a cube 5 feet on each side, centered o
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
 
-***Spell Lists.*** [Bard](Resources/Classes/Bard.md), [Sorcerer](Sorcerer.md), [Warlock](Warlock.md), [Wizard](Wizard.md)
+***Spell Lists.*** [Bard](Resources/Classes/Bard.md), [Sorcerer](Sorcerer.md), [Warlock](Warlock.md), [Wizard](Wizard.md)0

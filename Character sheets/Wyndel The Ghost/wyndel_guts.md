@@ -85,7 +85,7 @@ DeathS1: 0
 ## skills
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Acrobatics]` Acrobatics +`VIEW[{Acrobatics}<1 ? (floor(({DEX} - 10)/2)) : ((floor(({DEX} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Animal]` Animal Handling +`VIEW[{Animal}<1 ? (floor(({WIS} - 10)/2)) : ((floor(({WIS} - 10)/2))+{Prof})]`
-`INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Arcana]` Arcana `VIEW[{Arcana}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
+`INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Arcana]` Arcana +`VIEW[{Arcana}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Athletics]` Athletics +`VIEW[{Athletics}<1 ? (floor(({STR} - 10)/2)) : ((floor(({STR} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Deception]` Deception +`VIEW[{Deception}<1 ? (floor(({CHA} - 10)/2)) : ((floor(({CHA} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):History]` History +`VIEW[{History}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
@@ -93,11 +93,11 @@ DeathS1: 0
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Intimidation]` Intimidation +`VIEW[{Intimidation}<1 ? (floor(({CHA} - 10)/2)) : ((floor(({CHA} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Investigation]` Investigation +`VIEW[{Investigation}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Medicine]` Medicine +`VIEW[{Medicine}<1 ? (floor(({WIS} - 10)/2)) : ((floor(({WIS} - 10)/2))+{Prof})]`
-`INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Nature]` Nature `VIEW[{Nature}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
+`INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Nature]` Nature +`VIEW[{Nature}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Perception]` Perception +`VIEW[{Perception}<1 ? (floor(({WIS} - 10)/2)) : ((floor(({WIS} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Performance]` Performance +`VIEW[{Performance}<1 ? (floor(({CHA} - 10)/2)) : ((floor(({CHA} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Persuasion]` Persuasion +`VIEW[{Persuasion}<1 ? (floor(({CHA} - 10)/2)) : ((floor(({CHA} - 10)/2))+{Prof})]`
-`INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Religion]` Religion `VIEW[{Religion}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
+`INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Religion]` Religion +`VIEW[{Religion}<1 ? (floor(({INT} - 10)/2)) : ((floor(({INT} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Sleight]` Sleight of Hand +`VIEW[{Sleight}<1 ? (floor(({DEX} - 10)/2)) : ((floor(({DEX} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Stealth]` Stealth +`VIEW[{Stealth}<1 ? (floor(({DEX} - 10)/2)) : ((floor(({DEX} - 10)/2))+{Prof})]`
 `INPUT[toggle(onValue(1), offValue(0), defaultValue(0)):Survival]` Survival +`VIEW[{Survival}<1 ? (floor(({WIS} - 10)/2)) : ((floor(({WIS} - 10)/2))+{Prof})]` 

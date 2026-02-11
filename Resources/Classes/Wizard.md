@@ -38,7 +38,7 @@ As a wizard, you gain the following class features.
 
 ##### Proficiencies
 
-**Armor:** None  
+**Armor:** None
 **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows  
 **Tools:** None  
 **Saving Throws:** Intelligence, Wisdom  

@@ -1,0 +1,1 @@
+Your long jump is up to 25 feet and your high jump is up to 15 feet, with or without a running start.

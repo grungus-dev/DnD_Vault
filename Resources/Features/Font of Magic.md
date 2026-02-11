@@ -4,13 +4,14 @@ cat in the hat live action with batAt 2nd level, you tap into a deep wellspring 
 
 - **Flexible Casting.** You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
     - **_Creating Spell Slots._** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.
-    - **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+    - **_Converting a Spell Slot to Sorcery Points._** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
-|Creating Spell Slots|   |
-|---|---|
-|Spell Slot Level|Sorcery Point Cost|
-|1st|2|
-|2nd|3|
-|3rd|5|
-|4th|6|
-|5th|7|
+| Sorcery > Slots  |                    | Slots > Sorcery  |                    |
+| ---------------- | ------------------ | ---------------- | ------------------ |
+| Spell Slot Level | Sorcery Point Cost | Spell Slot Level | Sorcery Point Cost |
+| 1st              | 2                  | 1st              | 1                  |
+| 2nd              | 3                  | 2nd              | 2                  |
+| 3rd              | 5                  | 3rd              | 3                  |
+| 4th              | 6                  | 4th              | 4                  |
+| 5th              | 7                  | 5th              | 5                  |
+| -                | -                  | ...              | 6                  |
