@@ -8,27 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "031ed0a183086a2f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Source Books/OP_Devil_Fruits.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "OP_Devil_Fruits"
-            }
-          },
-          {
             "id": "afa7859da6d58333",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Source Books/New_OP_Oasis_RacesMCareers.pdf"
+                "file": "Character sheets/Jubei/jubei.md"
               },
-              "icon": "lucide-file-text",
-              "title": "New_OP_Oasis_RacesMCareers"
+              "icon": "excalidraw-icon",
+              "title": "jubei"
+            }
+          },
+          {
+            "id": "ae87815cea699aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character sheets/Jubei/Equipment Packs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipment Packs"
             }
           }
         ]
@@ -178,36 +180,39 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "031ed0a183086a2f",
+  "active": "afa7859da6d58333",
   "lastOpenFiles": [
-    "Source Books/New_OP_Oasis_RacesMCareers.pdf",
-    "Source Books/OP_Devil_Fruits.pdf",
+    "bubbles.png",
+    "jubei-blazblue-story-artwork.png",
+    "Character sheets/Jubei/Firebolt.md",
+    "Character sheets/Jubei/jubei.md",
+    "Character sheets/Jubei/Equipment Packs.md",
+    "Character sheets/Jubei/Feline Agility.md",
+    "Character sheets/Jubei/Tabaxi.md",
+    "Character sheets/Jubei/Cat's Claws.md",
+    "Character sheets/Jubei/Mage Hand Legerdemain.md",
+    "Character sheets/Jubei/Rogue- Arcane Trickster.md",
+    "Character sheets/Jubei/Steady Aim.md",
+    "Resources/Classes/Rogue.md",
+    "Character sheets/Jubei/Cunning Action.md",
+    "Resources/Features/Sneak Attack.md",
     "Character sheets/Takoni/takoni_sheet.md",
+    "Character sheets/Wyndel The Ghost/wyndel_sheet.md",
+    "Multiclass Spellcaster.md",
+    "Character sheets/Wyndel The Ghost/wyndel_guts.md",
+    "Character sheets/Frog Wizard/frog wiz.md",
+    "Source Books/New_OP_Oasis_RacesMCareers.pdf",
+    "Character sheets/Jubei",
+    "Source Books/OP_Devil_Fruits.pdf",
     "Resources/Spells/Level3/Haste.md",
     "Resources/Spells/Level3/Fireball.md",
     "Resources/Spells/Level2/Cloud of Daggers.md",
     "Resources/Spells/Level1/Hex.md",
-    "Character sheets/Frog Wizard/frog wiz.md",
     "Resources/Spells/Level1/Shield.md",
     "Resources/Spells/Level2/Rope Trick.md",
-    "Character sheets/Wyndel The Ghost/wyndel_sheet.md",
-    "Character sheets/Wyndel The Ghost/wyndel_guts.md",
-    "Multiclass Spellcaster.md",
     "Resources/Spells/Level3/Blink.md",
     "Resources/Spells/Level2/Wristpocket.md",
-    "Resources/Spells/Level1/Silvery Barbs.md",
-    "Resources/Classes/Sorcerer.md",
     "w'zarg.png",
-    "Resources/Classes/Wizard.md",
-    "Character sheets/Frog Wizard/Fey Touched.md",
-    "Wizard- School of Evocation.md",
-    "Character sheets/Frog Wizard/Water Dependency.md",
-    "Character sheets/Frog Wizard/Grung.md",
-    "Character sheets/Frog Wizard/Standing Leap.md",
-    "Character sheets/Frog Wizard/Poisonous Skin.md",
-    "Character sheets/Frog Wizard/Potent Cantrip.md",
-    "Character sheets/Frog Wizard/Sculpt Spells.md",
-    "Character sheets/Cix/Drawing 2024-11-02 19.24.29.excalidraw.md",
     "Pasted Image 20260127160415_057.png",
     "Excalidraw",
     "Character sheets/Frog Wizard",
@@ -220,10 +225,8 @@
     "wyndel.png",
     "_Media/cereal_pirates_jolly_roger.png",
     "Character sheets/Wyndel The Ghost",
-    "Source Books/OP_Haki.pdf",
     "_Media/takoni_ship_square.png",
     "_Media/takoni_ship.png",
-    "_Media/image.png",
-    "_Media/shieldled.png"
+    "_Media/image.png"
   ]
 }
