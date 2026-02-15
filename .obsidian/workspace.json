@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4ea50241223f547b",
@@ -182,10 +183,10 @@
   },
   "active": "afa7859da6d58333",
   "lastOpenFiles": [
+    "Character sheets/Jubei/jubei.md",
     "bubbles.png",
     "jubei-blazblue-story-artwork.png",
     "Character sheets/Jubei/Firebolt.md",
-    "Character sheets/Jubei/jubei.md",
     "Character sheets/Jubei/Equipment Packs.md",
     "Character sheets/Jubei/Feline Agility.md",
     "Character sheets/Jubei/Tabaxi.md",
@@ -226,7 +227,6 @@
     "_Media/cereal_pirates_jolly_roger.png",
     "Character sheets/Wyndel The Ghost",
     "_Media/takoni_ship_square.png",
-    "_Media/takoni_ship.png",
-    "_Media/image.png"
+    "_Media/takoni_ship.png"
   ]
 }
